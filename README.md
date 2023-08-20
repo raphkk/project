@@ -8,6 +8,7 @@
 * More about **Incogni** - https://www.youtube.com/watch?v=xfe8hhekUN8
 * How to manually remove personal information from the internet - https://blog.incogni.com/remove-your-information-from-the-internet/
 * List of Data brokers that share user information - https://blog.incogni.com/data-brokers-incogni-covers/
+* API found that could be used - https://rapidapi.com/letscrape-6bRBa3QguO5/api/website-contacts-scraper
 
 
 
