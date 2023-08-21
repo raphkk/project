@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+ul{
+  display: flex;
+  justify-content: space-around;
+  margin: 2rem;
+}
+
+.locked{
+  font-size: 30px;
+  font-style: italic;
+}
+
+button{
+  background-color: black; 
+  border: none;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+h1{
+  font-size: 3.75rem;
+  text-align: center;
+}
+
+h2{
+  font-size:  1.2rem;
+  text-align: center;
+}
+
+p{
+  text-align: center;
+  font-size: 2.4rem;
+}
