@@ -14,3 +14,4 @@
 
 
 ## Update on the project with date timestapms:
+* Created an index.html and linked style.css files. This website should only consist of one landing page with enough information and an FAQ below to commonly asked questions.
