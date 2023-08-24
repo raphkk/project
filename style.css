@@ -164,14 +164,14 @@ of the page */
 } */
 
 body{
-/* background: rgb(2,0,36); */
-/* background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%); */
+/* background: rgb(2,0,36); 
+   background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%); */
 /* background: rgb(188,186,214);
-background: linear-gradient(90deg, rgba(188,186,214,1) 0%, rgba(225,224,230,1) 50%, rgba(219,218,227,1) 100%); */ */ */
+   background: linear-gradient(90deg, rgba(188,186,214,1) 0%, rgba(225,224,230,1) 50%, rgba(219,218,227,1) 100%); */ 
 /* background: rgb(255,249,197);
-background: radial-gradient(circle, rgba(255,249,197,1) 0%, rgba(252,252,252,0.9479768786127167) 50%, rgba(255,242,196,1) 100%); */ */
-background: rgb(233,233,233);
-background: radial-gradient(circle, rgba(233,233,233,1) 49%, rgba(208,205,201,1) 100%);
+   background: radial-gradient(circle, rgba(255,249,197,1) 0%, rgba(252,252,252,0.9479768786127167) 50%, rgba(255,242,196,1) 100%); */ 
+   /* background: rgb(233,233,233);
+   background: radial-gradient(circle, rgba(233,233,233,1) 49%, rgba(208,205,201,1) 100%); */
 }
 
 .div-bar{
@@ -196,6 +196,9 @@ background: radial-gradient(circle, rgba(233,233,233,1) 49%, rgba(208,205,201,1)
   justify-content: center;
   padding-left: 1.5rem;
   padding-right: 1.5rem;
+  box-shadow: 5px 5px 18px 3px grey ;  /* This property is optional depending on the layout */
+  margin-top: 30px; /*This property is optional depending on the layout */
+  
 }
 
 .fa{

@@ -15,3 +15,6 @@
 
 ## Update on the project with date timestapms:
 * Created an index.html and linked style.css files. This website should only consist of one landing page with enough information and an FAQ below to commonly asked questions.
+* Continued research on how to use an API in my project. Current video used to gain information is - https://youtu.be/WXsD0ZgxjRw?si=7iBcXES70qBKsTBh
+* Created a box shadow for the main div to protrude the whole section of the website. 
+
