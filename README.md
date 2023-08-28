@@ -19,3 +19,4 @@
 * Created a box shadow for the main div to protrude the whole section of the website. 
 * Attempt placing subtle pattern background image to your landing page - https://images.app.goo.gl/LtjLYsjqWSgc9Mnj6(Did not look good after trial)
 * Created a footer which will contain extra text in the further
+* Reviewing DOM documentation and https://www.youtube.com/watch?v=zUcc4vW-jsI to manipulate the DOM and display API results on a div
