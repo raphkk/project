@@ -1,5 +1,7 @@
 # project
 ### This readme file is to document features, links or documentation found to help me keep up the pace of the project.
+### This project is to help users of the web take back control of their information by providing a platform to find results of their information and request databrokers to unsubscribe/remove their details from their database.
+#### I'm looking to use HTML, CSS, Javascript and a google search API to fetch data and return only relevant results. Iterrations of the languages used will change as i continue to add complexity to the webpage.
 
 ## Documentation links:
 1. How to create basic API - https://www.youtube.com/watch?v=be9sHQ7xqo0
@@ -20,3 +22,4 @@
 * Attempt placing subtle pattern background image to your landing page - https://images.app.goo.gl/LtjLYsjqWSgc9Mnj6(Did not look good after trial)
 * Created a footer which will contain extra text in the further
 * Reviewing DOM documentation and https://www.youtube.com/watch?v=zUcc4vW-jsI to manipulate the DOM and display API results on a div
+* 
